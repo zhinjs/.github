@@ -1,3 +1,3 @@
 # Zhin Organization
 
-- [Zhin](zhinjs/zhin: qq bot devel framework with oicq / icqq 基于oicq/icqq的一个QQ机器人开发框架)
+- [Zhin](https://github.com/zhinjs/zhin) 一个基于 icqq 协议的 QQ 机器人开发框架
